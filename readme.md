@@ -18,9 +18,9 @@ Remember to type `node js/google-shopping.js` to run the file (or `npm start`).
 
 1.) Go through the `items` and find all results that have `kind` of `shopping#product`. Print the count of these results. Where else is this count information stored in the search results?
 
-2.) Print the `title` all items with a `backorder` availability in `inventories`.
+2.) Print the `title` of all items with a `backorder` availability in `inventories`.
 
-3.) Print the `title` all items with more than one image link.
+3.) Print the `title` of all items with more than one image link.
 
 4.) Print all "Canon" products in the items (careful with case sensitivity).
 
